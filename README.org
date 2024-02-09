@@ -1,0 +1,7 @@
+* Companion website of my PhD thesis
+This is the git repository for the companion website of my PhD thesis.
+
+You can find the hosted page at:
+
+https://phd.vindaar.de
+
